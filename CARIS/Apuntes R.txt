@@ -1,0 +1,9 @@
+#Clase de programación 1
+
+#ls () listar topdos los objetos que se tiene en un ambiente
+rm (list = ls()) #eliminar objetos dentro del entorno de programación
+getwd() #fijar manualmente el directorio
+setwd() #
+#Crtl F para buscar y reemplazar
+file.path("D","Usuario","Documents") #escribirle todas las partes del path y que me monte el /
+
